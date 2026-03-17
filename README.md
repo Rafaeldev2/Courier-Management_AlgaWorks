@@ -1,2 +1,2 @@
 # Projeto_Spring_AlgaWorks
-Este é um projeto de Spring Boot do curso da Alga Works
+Projeto Courier Management, usando Spring Boot e Micro Serviços
